@@ -1,1 +1,0 @@
-# JIIMS-PROJECT
