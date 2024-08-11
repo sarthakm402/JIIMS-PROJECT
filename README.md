@@ -2,14 +2,6 @@
 
 This project was developed as part of Jim's hackathon and aims to leverage Convolutional Neural Networks (CNNs) and OpenCV for detecting traffic conditions and identifying potential crashes from video and image data. The system is designed to enhance road safety by providing real-time traffic and crash detection insights.
 
-## Table of Contents
-
-1. [Project Overview](#project-overview)
-2. [Features](#features)
-3. [Installation](#installation)
-7. [Contributing](#contributing)
-
-
 ## Project Overview
 
 This project integrates machine learning with computer vision to detect and analyze traffic conditions and crash events. The system uses CNNs to classify scenes and identify anomalies in traffic behavior, such as sudden crashes or accidents.
